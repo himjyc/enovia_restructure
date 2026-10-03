@@ -1,3 +1,3 @@
-public class sdpIP extends sdpIPProduct
+public class sdpIP extends sdpDesignSyncComponent
 {
 }

@@ -1,9 +1,9 @@
-public class sdpDesignSyncComponent extends sdpBOIComponent
+public class sdpDesignSyncComponent extends sdpIPProduct
 {
 
-    public void common_depth2_1_Function1()
+    public void designsync_Function1()
     {
 
-        common_depth1_1_Function3();
+        boiComponent_Function2();
     }
 }

@@ -5,7 +5,7 @@ public class sdpSoftmacroIP extends sdpIP
     {
 
 
-        common_depth2_1_Function1();
+        designsync_Function1();
     }
 
     public void depth5_2_function2()

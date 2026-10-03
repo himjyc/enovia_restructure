@@ -1,4 +1,4 @@
-public class sdpDevModel extends sdpIPProduct
+public class sdpDevModel extends sdpDesignSyncComponent
 {
 
 
