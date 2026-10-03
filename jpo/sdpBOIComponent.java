@@ -1,4 +1,4 @@
-public class depth1_1 extends customObject
+public class sdpBOIComponent extends sdpDefaultComponent
 {
 
     public void common_depth1_1_Function1()

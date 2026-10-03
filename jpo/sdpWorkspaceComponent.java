@@ -1,4 +1,4 @@
-public class depth1_2  extends customObject
+public class sdpWorkspaceComponent extends sdpDefaultComponent
 {
 
     public void common_depth1_2_Function1()

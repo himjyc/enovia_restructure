@@ -1,4 +1,4 @@
-public class depth2_2 extends depth1_2
+public class sdpProjectSpaceCompoenent extends sdpWorkspaceComponent
 {
 
     public void common_depth2_2_Function1()

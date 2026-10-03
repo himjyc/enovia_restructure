@@ -1,4 +1,4 @@
-public class customObject
+public class sdpDefaultComponent
 {
 
     public Domain domain        =   new Domain();

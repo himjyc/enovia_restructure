@@ -1,4 +1,4 @@
-public class depth5_2 extends depth4_1
+public class sdpSoftmacroIP extends sdpIP
 {
 
     public void depth5_2_function1()

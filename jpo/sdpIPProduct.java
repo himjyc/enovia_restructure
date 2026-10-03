@@ -1,4 +1,4 @@
-public class depth3_1 extends depth2_1
+public class sdpIPProduct extends sdpDesignSyncComponent
 {
 
     public void common_depth3_1_Function1()
